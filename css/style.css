@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Italiana&display=swap');
+
 * {
+    text-decoration: none;
+    color: black;
+    list-style: none;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -11,9 +15,9 @@ h1 {
     margin-top: 30px;
 }
 
-.line{
+.line {
     width: cover;
-    height: 0.1rem;
+    height: 0.04rem;
     background-color: black;
 }
 
@@ -22,9 +26,10 @@ ul {
     justify-content: space-evenly;
     margin-bottom: 15px;
     margin-top: 10px;
+
     li {
         list-style: none;
-        
+
         a {
             text-decoration: none;
             color: black;
@@ -44,9 +49,11 @@ main {
     align-items: center;
     justify-content: center;
     width: cover;
-    .texto{
+
+    .texto {
         width: 60dvw;
-        p{
+
+        p {
             margin: 30px;
         }
     }
@@ -63,6 +70,201 @@ footer {
     justify-content: end;
     align-items: center;
 }
-nav{
+
+nav {
     font-family: 'Italiana', serif;
+}
+
+.titulo {
+    font-size: 2rem;
+    background-color: #A8A8A8;
+    padding: 15px;
+    border-radius: 2rem;
+    border: 2px;
+    border-color: black;
+}
+
+.patrocinadores {
+    margin-top: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10px;
+    height: 5px;
+}
+
+.container {
+
+    background-color: #f0f0f0;
+    justify-content: center;
+    align-items: center;
+    padding-block: 10px;
+    padding-left: 10px;
+    margin-top: 50px;
+    border-radius: 20px;
+
+    p {
+        margin: 10px;
+    }
+
+}
+
+.container2 {
+
+    background-color: #f0f0f0;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-top: 50px;
+    border-radius: 20px;
+    padding-block: 10px;
+
+    p {
+        margin: 10px;
+    }
+
+}
+
+.container3 {
+
+    background-color: #f0f0f0;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-top: 50px;
+    border-radius: 20px;
+    padding-block: 10px;
+
+    p {
+        margin: 10px;
+    }
+
+}
+
+.container4 {
+
+    background-color: #f0f0f0;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-top: 50px;
+    border-radius: 20px;
+    padding-block: 10px;
+
+    p {
+        margin: 10px;
+    }
+
+}
+
+.container5 {
+    background-color: #f0f0f0;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-top: 50px;
+    border-radius: 20px;
+    padding-block: 10px;
+
+    p {
+        margin: 10px;
+    }
+
+}
+
+.container6 {
+
+    background-color: #f0f0f0;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-top: 50px;
+    border-radius: 20px;
+    padding-block: 10px;
+
+    p {
+        margin: 10px;
+    }
+
+}
+
+.container7 {
+
+    background-color: #f0f0f0;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-top: 50px;
+    border-radius: 20px;
+    padding-block: 10px;
+
+    p {
+        margin: 10px;
+    }
+
+}
+
+
+footer {
+    background-color: #A8A8A8;
+    width: auto;
+    height: 2rem;
+    text-align: right;
+    padding-right: 20px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding-block: 10px;
+
+    p {
+        margin: 10px;
+    }
+}
+
+.banner02 {
+    background-image: url('../img/Captura\ de\ tela\ 2024-10-09\ 090236.png');
+    height: 12rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.main01 {
+    display: flex;
+    width: cover;
+
+    .texto {
+        width: 50dvw;
+
+        p {
+            margin: 50px;
+        }
+    }
+}
+
+img {
+    width: 575px;
+    height: 421px;
+    margin-bottom: 10px;
+}
+
+.img1 {
+    display: flex;
+}
+
+.img2 {
+    display: flex;
+}
+
+.img3 {
+    display: flex;
+}
+
+.img4 {
+    display: flex;
 }
