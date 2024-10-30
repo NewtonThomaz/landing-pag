@@ -1,0 +1,475 @@
+@import url('https://fonts.googleapis.com/css2?family=Italiana&display=swap');
+
+* {
+    text-decoration: none;
+    color: black;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3rem;
+    margin-top: 30px;
+}
+
+.line {
+    width: cover;
+    height: 0.04rem;
+    background-color: black;
+}
+
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 15px;
+    margin-top: 10px;
+
+    li {
+        list-style: none;
+
+        a {
+            text-decoration: none;
+            color: black;
+        }
+    }
+}
+
+.banner01 {
+    background-image: url('../img/Banner01.jpeg');
+    height: 12rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: cover;
+
+    .texto {
+        width: 60dvw;
+
+        p {
+            margin: 30px;
+        }
+    }
+}
+
+
+footer {
+    background-color: #A8A8A8;
+    width: auto;
+    height: 2rem;
+    text-align: right;
+    padding-right: 20px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+nav {
+    font-family: 'Italiana', serif;
+}
+
+.titulo {
+    font-size: 2rem;
+    background-color: #A8A8A8;
+    padding: 15px;
+    border-radius: 2rem;
+    border: 2px;
+    border-color: black;
+}
+
+.patrocinadores {
+    margin-top: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10px;
+    height: 5px;
+}
+
+.container {
+
+    background-color: #f0f0f0;
+    justify-content: center;
+    align-items: center;
+    padding-block: 10px;
+    padding-left: 10px;
+    margin-top: 50px;
+    border-radius: 20px;
+
+    p {
+        margin: 10px;
+    }
+
+}
+
+.container2 {
+
+    background-color: #f0f0f0;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-top: 50px;
+    border-radius: 20px;
+    padding-block: 10px;
+
+    p {
+        margin: 10px;
+    }
+
+}
+
+.container3 {
+
+    background-color: #f0f0f0;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-top: 50px;
+    border-radius: 20px;
+    padding-block: 10px;
+
+    p {
+        margin: 10px;
+    }
+
+}
+
+.container4 {
+
+    background-color: #f0f0f0;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-top: 50px;
+    border-radius: 20px;
+    padding-block: 10px;
+
+    p {
+        margin: 10px;
+    }
+
+}
+
+.container5 {
+    background-color: #f0f0f0;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-top: 50px;
+    border-radius: 20px;
+    padding-block: 10px;
+
+    p {
+        margin: 10px;
+    }
+
+}
+
+.container6 {
+
+    background-color: #f0f0f0;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-top: 50px;
+    border-radius: 20px;
+    padding-block: 10px;
+
+    p {
+        margin: 10px;
+    }
+
+}
+
+.container7 {
+
+    background-color: #f0f0f0;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-top: 50px;
+    border-radius: 20px;
+    padding-block: 10px;
+
+    p {
+        margin: 10px;
+    }
+
+}
+
+
+footer {
+    background-color: #A8A8A8;
+    width: auto;
+    height: 2rem;
+    text-align: right;
+    padding-right: 20px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding-block: 10px;
+
+    p {
+        margin: 10px;
+    }
+}
+
+.banner02 {
+    background-image: url('../img/Captura\ de\ tela\ 2024-10-09\ 090236.png');
+    height: 12rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.main01 {
+    display: flex;
+    width: cover;
+
+    .texto {
+        width: 50dvw;
+
+        p {
+            margin: 50px;
+        }
+    }
+}
+
+img {
+    width: 575px;
+    height: 421px;
+    margin-bottom: 10px;
+}
+
+.img1 {
+    display: flex;
+}
+
+.img2 {
+    display: flex;
+}
+
+.img3 {
+    display: flex;
+}
+
+.img4 {
+    display: flex;
+}
+
+.banner01 {
+    background-image: url('../img/Banner01.jpeg');
+    height: 12rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: cover;
+
+    .texto {
+        width: 60dvw;
+
+        p {
+            margin: 30px;
+        }
+    }
+}
+
+.container {
+
+    background-color: #f0f0f0;
+    justify-content: center;
+    align-items: center;
+    padding-block: 10px;
+    padding-left: 10px;
+    margin-block: 25px;
+    border-radius: 20px;
+    width: 800px;
+
+    p {
+        margin: 10px;
+    }
+
+}
+.VAGAS{
+    text-align: end;
+}
+
+.AULAS {
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    background-color: #A8A8A8;
+    width: auto;
+    height: 2rem;
+    text-align: right;
+    padding-right: 20px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding-block: 10px;
+
+    p {
+        margin: 10px;
+    }
+}
+
+nav {
+    font-family: 'Italiana', serif;
+}
+
+.banner02 {
+    background-image: url('../img/Captura\ de\ tela\ 2024-10-09\ 090236.png');
+    height: 17rem;
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+
+main {
+    display: flex;
+    width: cover;
+    .texto{
+        width: 60dvw;
+        p{
+            margin: 30px;
+        }
+    }
+}
+.main01{
+    display: flex;
+    justify-content: center;
+    margin-block: 20px;
+    .row{
+        gap: 100px ;
+        display: flex;
+        .ing{
+            width: 250px;
+            height: auto;
+        }
+    }
+}
+h2{
+    text-align: center;
+}
+
+
+footer {
+    background-color: #A8A8A8;
+    width: auto;
+    height: 2rem;
+    text-align: right;
+    padding-right: 20px;
+    display: flex;
+    justify-content: end;
+   
+}
+nav{
+    font-family: 'Italiana', serif;
+}
+.loc{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    h3{
+        text-align: center;
+    }
+    .pais{
+        width: 400px;
+        height: 300px;
+    }
+    span{
+        display: flex;
+        gap: 5px;
+        .calen{
+            width: 20px;
+            height: auto;
+        }
+    }
+}
+.aliLoca{
+    margin-block: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.titulo {
+    font-size: 0.5rem;
+    font-family: 'Italiana', serif;
+    background-color: #dddddd;
+    padding: 15px;
+    align-items: center;
+    width: 80dvh;
+    border-radius: 2rem;
+    border-style: outset;
+    padding-bottom: 35px;
+    margin-top: 100px;
+    margin-left: 30%;
+    margin-right: 30%;
+    
+
+
+}
+
+section{
+
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    height: 100%;
+    justify-content: space-around;
+    gap: 70px;
+    
+}
+
+
+
+.img {
+    width: 300px;
+    height: auto;
+    margin-left: 10dvh;
+    margin-top: 20px;
+    margin-right: 10dvh;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.imgdif{
+    width: 200px;
+    height: auto;
+}
+ 
+.txt{
+    margin-inline-end: 10px;
+    padding: 30px;
+    background-color: #dddddd;
+    border-radius: 4.5dvh;
+    border-style: outset;
+}
+
+.txt h4{
+    font-size: 2.5rem;
+    font-family: 'Italiana', serif;
+}
+
+.txt p{
+    font-size: 1.5rem;
+}
